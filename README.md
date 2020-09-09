@@ -1,2 +1,1 @@
-# Fallout-City-public
-Unfinished game project
+# Fallout-City
